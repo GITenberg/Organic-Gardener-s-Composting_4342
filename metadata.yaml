@@ -1,0 +1,24 @@
+_repo: Organic-Gardener-s-Composting_4342
+creator:
+  author:
+    agent_name: Solomon, Steve
+    birthdate: 1942
+    gutenberg_agent_id: '1454'
+    url: http://www.gutenberg.org/2009/agents/1454
+description: ''
+gutenberg_bookshelf: Horticulture
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4342'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Organic gardening'
+- !lcsh 'Vegetable gardening'
+- !lcsh 'Compost'
+- !lcc 'SB'
+title: Organic Gardener's Composting
+url: http://www.gutenberg.org/ebooks/4342
