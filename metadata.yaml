@@ -1,5 +1,5 @@
 _repo: Organic-Gardener-s-Composting_4342
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcsh 'Vegetable gardening'
 - !lcsh 'Compost'
 - !lcc 'SB'
+- GITenberg
 title: Organic Gardener's Composting
 url: http://www.gutenberg.org/ebooks/4342
